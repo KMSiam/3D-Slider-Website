@@ -6,6 +6,7 @@
     text-align: center;
     overflow: hidden;
     position: relative;
+    background-image: url(image/background.jpg);
 }
 .banner .slider{
     position: absolute;
